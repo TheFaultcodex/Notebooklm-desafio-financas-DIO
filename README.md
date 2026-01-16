@@ -1,0 +1,1 @@
+# TheFaultcodex-notebooklm-desafio-financas-DIO
