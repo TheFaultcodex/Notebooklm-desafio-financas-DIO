@@ -48,3 +48,5 @@ Cada arquivo contém:
 - O prompt utilizado
 - A resposta gerada
 - Observações sobre variações testadas
+
+##### Link para o Notebook: https://notebooklm.google.com/notebook/c733025e-1dc7-49f6-bb36-2fb25f4457c3?authuser=3
